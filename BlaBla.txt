@@ -1,2 +1,3 @@
 Text to be commited to the web
+Add a new line in between
 This line was added on the server
